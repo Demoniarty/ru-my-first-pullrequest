@@ -1,0 +1,1 @@
+my name is Marty, I'm studying git. I edited this file using vim, mthfckr
